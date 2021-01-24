@@ -1,0 +1,2 @@
+The data has been loaded through the twitter developer api by streaming the live tweets from twitter.
+Twint api was also used to fetch year long tweets data.
